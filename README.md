@@ -1,6 +1,7 @@
 
 # so_long - My 2D Game
-
+<img width="1918" height="1039" alt="so_long_1" src="https://github.com/user-attachments/assets/5afd9612-f173-4447-9171-e69a1216a989" />
+<img width="1542" height="844" alt="so_long" src="https://github.com/user-attachments/assets/7ef565a7-9550-48cd-b759-699091970198" />
 
 *My first 2D game project*
 ---
