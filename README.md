@@ -52,6 +52,19 @@ To play this game, you need:
 
 ---
 
+## Usage  
+
+1. Run the program with a valid `.ber` map file:  
+   ```bash  
+   ./so_long maps/example.ber  
+   ```  
+
+2. Use **arrows** keys to move the player character.  
+
+3. Collect all collectibles (💵) and reach the exit (🚪) to win!🏆  
+
+---
+
 ## Who made this
 Made by **mouadisfree** as a student at **1337 School** (part of the 42 coding schools).
 
