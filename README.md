@@ -59,9 +59,9 @@ To play this game, you need:
    ./so_long maps/example.ber  
    ```  
 
-2. Use **arrows** keys to move the player character.  
+2. Use **arrows** keys to move the player character (🕊️).  
 
-3. Collect all collectibles (💵) and reach the exit (🚪) to win!🏆  
+3. Collect all collectibles (💵) and reach the exit (🚪) to win! 🏆  
 
 ---
 
